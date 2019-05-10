@@ -4,7 +4,7 @@
   * Master: Código listo para desplegar en producción
   * Develop: Código en desarrollo.
 
-![centralized](/media/git_flow_1.png)
+![centralized](media/git_flow_1.png)
 
 Notes:
 * El código que se fusiona/mezcla con la rama master se suele desplegar con herramientas CI/CD, ejemplo: Jenkins.

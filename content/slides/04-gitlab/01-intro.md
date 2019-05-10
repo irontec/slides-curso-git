@@ -1,3 +1,3 @@
 ## GitLab
 
-![gitlab](/media/gitlab_logo.svg) 
+![gitlab](media/gitlab_logo.svg) 

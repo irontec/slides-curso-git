@@ -1,6 +1,6 @@
 ## Administración básica
 
-![gitlab options menu](/media/gitlab-options-menu.png)
+![gitlab options menu](media/gitlab-options-menu.png)
 
 * Menú opciones:
   * New (+): Nuevo proyecto, Nuevo Grupo, Nuevo Snippet
